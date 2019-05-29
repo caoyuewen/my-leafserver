@@ -1,3 +1,538 @@
 2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:81] 加载服务器配置成功,正在启动服务...
 2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
 2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:58] 服务启动成功...
+8:25AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:25AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:25AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+10:55AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+10:55AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+10:55AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+4:30PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+4:30PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+4:30PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+6:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+6:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+6:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+6:35PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+6:35PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+6:35PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+6:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+6:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+6:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+8:25AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:25AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:26AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:26AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:30AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+8:35AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:35AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:35AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+8:36AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+8:36AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+8:36AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+1:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+1:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+1:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+1:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+1:51PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:51PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+1:51PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+11:47AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+11:48AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+11:48AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+11:48AM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+1:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+1:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+1:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+1:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+1:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:14PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:19PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:19PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:19PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:22:17 : handlerCAuthorize
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17459}
+
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17459 SNonce:5386}}
+
+2:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:23:28 : handlerCAuthorize
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17}
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17 SNonce:17588}}
+2:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:25:48 : handlerCAuthorize
+2:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:6004}
+2:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:6004 SNonce:8750}}
+2:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:36:56 : handlerCAuthorize
+2:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:7719}
+2:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:7719 SNonce:6771}}
+2:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:37:04 : handlerCAuthorize
+2:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:8622}
+2:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:8622 SNonce:4468}}
+2:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:38PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:38PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:38:45 : handlerCAuthorize
+2:38PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:11359}
+2:38PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:11359 SNonce:7489}}
+2:38PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:40:48 : handlerCAuthorize
+2:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:1926}
+2:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:1926 SNonce:1400}}
+2:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:41:02 : handlerCAuthorize
+2:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16552}
+2:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16552 SNonce:17111}}
+2:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:42:59 : handlerCAuthorize
+2:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:14075}
+2:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:14075 SNonce:6832}}
+2:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:45:01 : handlerCAuthorize
+2:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16724}
+2:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16724 SNonce:16389}}
+2:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:46:33 : handlerCAuthorize
+2:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:3710}
+2:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:3710 SNonce:11934}}
+2:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:47PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:47PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:47:08 : handlerCAuthorize
+2:47PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16191}
+2:47PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16191 SNonce:11814}}
+2:47PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:48:16 : handlerCAuthorize
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:18283}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:18283 SNonce:13342}}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:48:43 : handlerCAuthorize
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:8848}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:8848 SNonce:9629}}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:48:58 : handlerCAuthorize
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:10803}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:10803 SNonce:11807}}
+2:48PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:49:19 : handlerCAuthorize
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:92}
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:92 SNonce:8620}}
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:49:48 : handlerCAuthorize
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:1111}
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:1111 SNonce:3606}}
+2:49PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:52:23 : handlerCAuthorize
+2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:4328}
+2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:4328 SNonce:5911}}
+2:52PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:55:18 : handlerCAuthorize
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:19137}
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:19137 SNonce:7275}}
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 14:55:51 : handlerCAuthorize
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:10679}
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:10679 SNonce:16618}}
+2:55PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:00:41 : handlerCAuthorize
+3:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:2677}
+3:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:2677 SNonce:286}}
+3:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:03PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:03PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:03:13 : handlerCAuthorize
+3:03PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:8756}
+3:03PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:8756 SNonce:13980}}
+3:03PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:05PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:05PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:05:04 : handlerCAuthorize
+3:05PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:15774}
+3:05PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:15774 SNonce:15257}}
+3:05PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:06:07 : handlerCAuthorize
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:4253}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:4253 SNonce:14704}}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:06:25 : handlerCAuthorize
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:8758}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:8758 SNonce:9651}}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:06:41 : handlerCAuthorize
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16138}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16138 SNonce:11917}}
+3:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:09PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:09PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:09:41 : handlerCAuthorize
+3:09PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:667}
+3:09PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:667 SNonce:14782}}
+3:09PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:10:06 : handlerCAuthorize
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:9203}
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:9203 SNonce:10015}}
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:10:09 : handlerCAuthorize
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:2598}
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:2598 SNonce:15378}}
+3:10PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:15:14 : handlerCAuthorize
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:13836}
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:13836 SNonce:5368}}
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:15:34 : handlerCAuthorize
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16248}
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16248 SNonce:17192}}
+3:15PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:16PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:16PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:16:51 : handlerCAuthorize
+3:16PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:13835}
+3:16PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:13835 SNonce:13892}}
+3:16PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:17:05 : handlerCAuthorize
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:1902}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:1902 SNonce:7567}}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:17:27 : handlerCAuthorize
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:13474}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:13474 SNonce:4432}}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:17:40 : handlerCAuthorize
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16907}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16907 SNonce:10395}}
+3:17PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:21:58 : handlerCAuthorize
+3:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:3201}
+3:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:3201 SNonce:1070}}
+3:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:23:40 : handlerCAuthorize
+3:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:15821}
+3:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:15821 SNonce:13558}}
+3:23PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:25:58 : handlerCAuthorize
+3:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:18841}
+3:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:18841 SNonce:2400}}
+3:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:26PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:26PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:26:03 : handlerCAuthorize
+3:26PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:667}
+3:26PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:667 SNonce:13779}}
+3:26PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:27:25 : handlerCAuthorize
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:3336}
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:3336 SNonce:15134}}
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:27:47 : handlerCAuthorize
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17310}
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17310 SNonce:11565}}
+3:27PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:33:52 : handlerCAuthorize
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:201}
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:201 SNonce:8329}}
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:33:57 : handlerCAuthorize
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:14130}
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:14130 SNonce:18958}}
+3:33PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:36:08 : handlerCAuthorize
+3:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:6246}
+3:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:6246 SNonce:15772}}
+3:36PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:37:07 : handlerCAuthorize
+3:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:7549}
+3:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:7549 SNonce:14797}}
+3:37PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:39:23 : handlerCAuthorize
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:5539}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:5539 SNonce:2953}}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:39:29 : handlerCAuthorize
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:6760}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:6760 SNonce:3849}}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:39:57 : handlerCAuthorize
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:1529}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:1529 SNonce:12154}}
+3:39PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:40:31 : handlerCAuthorize
+3:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16783}
+3:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16783 SNonce:18191}}
+3:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:41:55 : handlerCAuthorize
+3:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17076}
+3:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17076 SNonce:19929}}
+3:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:42:08 : handlerCAuthorize
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:2361}
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:2361 SNonce:18351}}
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:42:46 : handlerCAuthorize
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:12466}
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:12466 SNonce:14620}}
+3:42PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:43:13 : handlerCAuthorize
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17522}
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17522 SNonce:15415}}
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:43:20 : handlerCAuthorize
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:3789}
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:3789 SNonce:15744}}
+3:43PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:44:46 : handlerCAuthorize
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:3319}
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:3319 SNonce:383}}
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:44:58 : handlerCAuthorize
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17023}
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17023 SNonce:14876}}
+3:44PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:45:05 : handlerCAuthorize
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:247}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:247 SNonce:12516}}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:45:23 : handlerCAuthorize
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:13200}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:13200 SNonce:10519}}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:45:34 : handlerCAuthorize
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:14001}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:14001 SNonce:17156}}
+3:45PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:46:37 : handlerCAuthorize
+3:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:10147}
+3:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:10147 SNonce:3127}}
+3:46PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:54PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:54PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:54:01 : handlerCAuthorize
+3:54PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:16445}
+3:54PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:16445 SNonce:4831}}
+3:54PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:58:45 : handlerCAuthorize
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:9725}
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:9725 SNonce:4715}}
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:58:56 : handlerCAuthorize
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:17376}
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:17376 SNonce:7466}}
+3:58PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+3:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+3:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 15:59:41 : handlerCAuthorize
+3:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:7734}
+3:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:7734 SNonce:10365}}
+3:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+4:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+4:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 16:00:15 : handlerCAuthorize
+4:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:1863}
+4:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:1863 SNonce:18977}}
+4:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 16:40:20 : handlerCAuthorize
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:EC8JoAMrEW+EmXLD0lNzW7Z/uB2t0/fGzXeRW5gbRXVQ1avVRqzLGq4XvxznrsHrbmhMtAQILZNobZ0IMJ5Xh4RAY6xJ9//eSMxU46D7pOv0XEs7CUavOnqo4PZm37VCVp1lsEuDNA11NqdHi9/JQFrXa6IB64c3ovEgjr8NPqc=}
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:EC8JoAMrEW+EmXLD0lNzW7Z/uB2t0/fGzXeRW5gbRXVQ1avVRqzLGq4XvxznrsHrbmhMtAQILZNobZ0IMJ5Xh4RAY6xJ9//eSMxU46D7pOv0XEs7CUavOnqo4PZm37VCVp1lsEuDNA11NqdHi9/JQFrXa6IB64c3ovEgjr8NPqc= SNonce:14052}}
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 16:40:25 : handlerCAuthorize
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:meC+auXvn7hJhsXjGIPqkbNV/AWoprrdNv28Kv3EYIa8lqXYRtSArMaE4JqMBypnd5Tda0WCLY93/j/Z+mUAetZsg3fL4blDA23diUpam7A8V7bufxIKxCY3AD+tNxQQadRnCuxCFXy0u/Mjh5Ukvf7VkzDUpwQC1q2CFRuSlHI=}
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:meC+auXvn7hJhsXjGIPqkbNV/AWoprrdNv28Kv3EYIa8lqXYRtSArMaE4JqMBypnd5Tda0WCLY93/j/Z+mUAetZsg3fL4blDA23diUpam7A8V7bufxIKxCY3AD+tNxQQadRnCuxCFXy0u/Mjh5Ukvf7VkzDUpwQC1q2CFRuSlHI= SNonce:9496}}
+4:40PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+4:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+4:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 16:41:30 : handlerCAuthorize
+4:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:PP6Uf3TCgi+tUqq65//yKbWvXS+EMuU5q23IV6vwP0eiZAJRjPbNoXYXXAppOrQ7vVbd8csCQRsRakKiRTRlAw09cibFqOGRbtUGCE0E9x8pcnLNo7/Y+mMK8dAgnQUTChwAU63UxJeRpDL+WUHVPIZuBb1qILFc/TAi5NLHhLc=}
+4:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:200 Msg:ok Data:{CNonce:PP6Uf3TCgi+tUqq65//yKbWvXS+EMuU5q23IV6vwP0eiZAJRjPbNoXYXXAppOrQ7vVbd8csCQRsRakKiRTRlAw09cibFqOGRbtUGCE0E9x8pcnLNo7/Y+mMK8dAgnQUTChwAU63UxJeRpDL+WUHVPIZuBb1qILFc/TAi5NLHhLc= SNonce:604}}
+4:41PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+4:59PM [EROR] [D:/fidoself/my-leafserver/my-leafserver/common/encrypt_nonce.go:24] init rsa priKey fail!
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+4:59PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:00:02 : handlerCAuthorize
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:C+FNVa2A2l/JucZpejk3GhCJ9lY2e1uJyfEBhTcD7vf5Rtt/zKfDcEKaqDv5NFHiemvpbMD1MLU5kcdXfTmU5ZfgC/+nYragwbOh2qhGbZK70s5Q0zAP6Xq41YsOWx1seDTdk1CGy2AWIGc9y6zpY/cNjMs4vO1xWFhoI/YJJ3U=}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:00:13 : handlerCAuthorize
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:UXNhFhwVsHSdJ3jSG1qEBbXifiFq1bB7NuNtcUiQ4hdr8vW5t9cmjnRI8Obwjn1SeEjlhQSERD2UrMerkU9siat6i3HfVTKIvJQ4TumIb0o73Hp15qguYY7AFmkATpSHPYo2h1lXsQAaAvrhVn8saNmUUtt9FJrvCuc0wqUQUiU=}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:00:21 : handlerCAuthorize
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:VP6UU2YzFL+8ts+T7jGHgqajQVph63ugyaGcRzMInvLrUKdAYbm+bN0JsIas5spogZXaZ8deXq13N+/OmrhcX8+3brikQrk3P2mgv1tguENzSzT1OHOAy4BRP6k32UQUz+oa2BQDfBVrXEYzLhvdTwIElkBDWnpdrSOWFFDr25g=}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:00:26 : handlerCAuthorize
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:GLsp2DB3kwRop2wRmFH0DDAnH1dsjpqYRW6eGyUq4FcvGeqnzQoB78JTYFZsK/ydoK1Bye/6Rr4d0Q/Iwt0pdELox4Qcir8aaoQ3lV9PXscEfqCutW4ZH9vm6ZDXKPe+8jIIqoNRgUiPzy4FvGhR/s7L/xGWU+q7K9PuSXQBBck=}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:00PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:04:48 : handlerCAuthorize
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:fhhwIlkDIickTuWUy0qQ/8JJDKCKWE6bhnlwI2DFJ64l8AfdSqE6ysSKz32b3eUkw2Rk/mDUMOq12WNOSTbR7BK+x+iL3VhvTcSEn9evEGNsbaS4PhNnuFQcYaffsujw7blelEtnNn6foairyqfa1CDXhSH9+SBMs5zZT2ifomYE4QHK0rBEJ/ZKe9I2SrYReC3GXgCpaJZPoq0ASN+ECB+AYOpH/J+7YnYjIBNEh4QTnd1pwokiSSKe26dsNL5hQFKf106Ku6OcvtNXL83OOP/jtpUfpR/qmSw0EUKhuFjDFLW14vySsgZa2Z7pBXwprTzk4xjXI77kGM5SjdOt5Q==}
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:04:52 : handlerCAuthorize
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:fyhpq5xuvwiPJU0EJPtZquCVaPbNsWQw+jo5vycQvsayBowfHeEV72iXJdp0/D9EWTXNFHqDENdHmhyk5PJ1dvnVvdE2IBdrTmLaY2QsT+nX2RrwiVtEuuUs7NwxjN/f663/gF5m6AzpP8nYs+2+154BlS5GaNB9FTO3WMs7p3dPfMJEE11EjP46GnPAQTUZQ6J57B3davQCLYQNH8L5owsRmqkFBLvwbplgR7R7T9ejQW9y/tpy010mARPlaUAIC+owym7DSi0e7VXL0HDYNlOK4tQdGirCT8qS7vUgmdGPgtz3o6K2X2rG9yBzynxRjdszuN0Nx6Uzh9sZ0jotRQ==}
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:04PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:06:28 : handlerCAuthorize
+5:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:FwiVPPVYqaUh3GLDwFVPmv+8nDteR6m+2olNSE83jz+oCZAOjFIQ9fyLLFzY+E67Kt5teEPq/xu1YWrorlVu/aQgdSMOmj7RR/nBQXcVHwH66GL+5UzBOHqIJYYdEf3GyFoaqn6QlPCv5fMZdKfP4uhuBwc0LWy5HClrpk/lQJNm5ghhYm+8F8AkL+0ONDpl4GNgF5RdWe5D4KsoECPRH7/HYTwmSgawVrNk3RAGUBiT0Pc1U26TDRc+pgqcNfmHiGqo9jhxIKoCNDMMtPuhKgXOELSXZ9bHxUQmjqa0oYjejtDxEsGIcNtIh2D51Jb7RdLcYdFKiT26cV/xrT91Zw==}
+5:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:06PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:11:24 : handlerCAuthorize
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:false}
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:11:33 : handlerCAuthorize
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:nWgEt8h62rsqZvIbPXcD3su92UPtmYlA0WOY5Yg71ZVIMnY8zSTiJAcfYu+xe0cAyzHNemLnjC2XVuHicwLQ/FXNI0yu8HhHITbvNJWtBWbkfCJ/rOKAeWMXEaX0/Nu9yKdWpdXQRfxa1G2Cet0cSTqq9OeqwycRyJ2d6VrnSfW0jh2cLcbE4GSU1eO/gBONJj+fYlZUE6UkJ4NI2A11eG2Ayf0G6P7WReg89R7ls9CXGIynP6Ku6lcb3yLrQPMUG8zQveLrJroMd7iQU9ZQUq6bgfIjulot9gGv55+LJ4FD6R2c2myfOGPH4JsBMx2Iz2+wK+DHzIet0r0862PsWQ==}
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:11PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:82] 加载服务器配置成功,正在启动服务...
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init_database.go:43] 连接mongo数据库成功 address: 192.168.23.131:27017
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/models/init.go:59] 服务启动成功...
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:21:39 : handlerCAuthorize
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:mf+4BpHlwgYnBBhO+ffhuo59TLUUiPv583tZBbgj1IcDkSAogw6d+XcSn4ACNkCN3xPFj+N7JobehbdG9jAzKDeRvMmZD3tIUJ3gFUKLd4L+yrMTNKdkndb9oTIVQfUTG8Cb7ZduYXRoN6Nv5otLcTIV/ovAibbC9voT3XYufY6rv4cf7rCl6Wye15cfaJ93/UZnst8Z6DPrW7r0FPmj7vnZt+eJB8NXzw2hqpw7gseZ6d2NJVaLftMie322QJ4CVxCrZQySBtHOuF1ChLWhDKkkWODAoz/1l/zW5+5h3gu5+snfClPQssXvb2SzyFohABqi58kObBGZUFIc2zFfqQ==}
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:21PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:22:12 : handlerCAuthorize
+5:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:UX++fVN4nvDPYd5g91BQxKu3wc00GKO1hLbhBHgw0xIwPXvdj7bwLpABwrfDCfQmKr1rNCnkDFyH1emeCsVhUz1WNWERKMJdnpVrjbHyg5bAjgD5Dr+fRdJi51u25mEGoc63HYigVtpSKCpenJGxCFSVwY9xvgk6PNQs5TYCUZSo3B3v42mQBA0KyaF3t3URMUJc2lJwCZ6RNwAos6rJ0tP1BdBLlvujQiX8BMW94PGKkJgiJ8LEni9lF2edb3StxNhiHZJsC0+mpfc3Y96sACfKhFRNCmFxIFjCgNIsNZXGfXEMHg2ekjQXyvlpRIrHunejHXWZ281RL3abgMOI0w==}
+5:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:22PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:00 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:VPXOC9W/bLNb9Zxh3F5b+EWgLUaLidDep58m3Ex//AfuZhsiDMeHm2YdMZdXVyWFvyhpJRa2NihP1/ZQ5AlaG3mnOPcWNIQWS7APQLCY6PnpjRlLdmWAHnOBVj1WuIrzTgGDqEy5Ua6MNCZZ90NfSoA+EoOOr7s9qoAtDrjki5uMA4IVH0E8S+xQsIH59XoG05oYp/Gn3p27nZQArR0/8lPyC7WjpsOyMeoe6FydaIDq8RTR3KW3oPiEJdBFpy3VW09dyLi+4Tlq9gAmkQQXq3/2EUnfsQ29n5r7LDrDY9W54byLEGB4Dcla5LgLcw/BfqC0xRIWM9iyM7mzVTHZig==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:29 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:ah1UtGC7D4ouOI3LcZvolDIeB0FNKAGcnlkgGNuAnHaYARK9knUC0G80sFsyGBeO/NDYUloo/C+qBGATZE27/sWXhJHORAx9FMfmLZPrVsHBOID5fdWaLXlsEpgkgGmOaCCZ8TYIQ7+0mwsJeH+VLN/eVVHpJXc2vDb6dhDhnehZqi0PS0YCSfsPCR57t/ynBZnLyMyaaPL9pJweTURFGcY63pE5WR9D9qi2bTRzh9/96o5OuOnm12BjFd3RPsk8hsTO2gYTGeyaDHg3s7Cw2jkp0ozoV2NbL4Q0ri7rtJbE1GWkpVvbZjvfmRp9DJX50vNPlWI4DFdPMWw/64obDg==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:33 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:ZsEBl5cCUicHRO7ZxTK3Jy+JIPfS7PmU3XkLnx9F0JdaP/betCaL/BhjG6+E5VZybo9b4zbVwckTxZEryfwOOsHmCHZBb4l8ePRU6/IdPp9t2wkwndqF11AnXiO+m+nMl7ExdYt0iJjiMN5auarXo83x9qQBMiTVD/1zu+JYFdkwnPFoJ6EVGZG4kt9vLDGFcmwkwZ68LOZwdFmDkJPFTXyTluQbBx6HYznsMat2jOSgbRmCFlVFRKnqMQGGcA6f1LRKSWbjItqLZ8g36kos36LCYBgx0GMHxUZezHzm6/WiKHCdX8YlLHYQNJAlZy1D2FxkQTxA4jPAmMc1ePVtcg==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:37 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:wh1whFub6iDiTrrjjNQYGPAZl1dhl/yFN9mSabKCAqqX+K3GYQM0aIJLahATmmkhLGoD/1gM1P8OGdxF/KB5yLVmuFEnfgQVRtWpOnDJacOZ7EHl6N8gi8OdU0duFwXfv8ClIvzqOIRKwYVpwqG1vHvV6/bos/rHLDzbTM4UuICrCp/zuonBd05L6q3MxpO34wt++5SyqugraAPonZ/SAbYwrg/LBpXjL6jTdRbAPjZCg9dMT6zBo+ED8E7Zf3xOBoGL9iUrPu13jIhRKTGXGqB3EGQIXPhSbSK3wck/fVGccdIty5WADZmioZICPiz8SiAxP7JXdgJKK6KHavZPcg==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:43 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:hNLLEAlFEpDMs8m7Vb+f03U2dsYbmYQMbZYBp5Nc2daGBnVGyRZrjONnBDz6zzcKOh7lPKnmWkGV/AKP7PnS0jNo7L0chg0VZQ8ktmXfs72eypCBMIZpE7WNCwJZwpbWK5+vzxVP5d+6+V0bB7AeWjuMpTBd6a2ngs6+C4nnBRbo4bWO6U5moNcytVigrzSe7lwpKLXSDOGo/VjV/tWCI+8s9/s+lHjnSe62o0sqKLVF8fav9zGxIjqOewjavMmbmZ/8ME3Y8kp1jHB5KUPDGS/pjKDXaXAXvULPJYT/ZhTQyDknndiTFYw5xjk2gmKJcSmrgdCdlBaqb9ffWCzm9w==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:45 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:uE16firJyXDHzjrhcuf5B82AiMPgDogxGRvuWHGOeN373rY4uQs5m9tS0LoQD2PmS0b1m4vQFQwSyVZdPBGLUugJOphDtidP2gmAsXnBoS+RBGQMARilVVHNVvxnOsJMY0yzlVNyOW6lfr2XsJES7jpHGj+334/MbnKFvr17nleoVgiy5l1xzGA9KBjPAKokVKZskskzpf07GuOS6i2BNJN8nePD3oQwh2/HcCWsp8VdwZhwUVUfMvLjHJ4EorlfK7zNZRSOLIwduIM7UTjGaSSb9LEgQHS7d/Luikq9pn1IYuu8ntOoFNsekW/9s9IfAb77MzjtDwHa+d24RIMKCQ==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:47 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:zUZwcS0eevnBaUYTFJoi0J/GvUpRd+93xxdWes5RrbHqd1sPZeQj/OXr/CodocutENqIwB/7IddSNuxN/U3dkFQmJ/1PmhxeFVrtV3RnU4FSy8fv3MhG3uPq2FNI7Cmyx4gG0+/wiRAy9uSK9Ql9H4Y4Xvalz0DljGkbFGCatpv5ydWmjKxwCgShUHPXLG0KdoaMuS0FtELofhn97k2WG5eQvq62pOelY5KOuYuHGKkVwE7mUvyRvPYdDZKVkGwDHTLyipr5DxIafXuCbtvRzI8YzSV92B0KXG4JFkCax6xhdKvU3UN9M4kuTpingr2OlBLZuEh5Ez/N6HUzum04rQ==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:54 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:kBMqIbj3LfBC55LOoQI280fNAaDxkmOBOlIaVpEO2DsEOBsn7jVoDppCcZ38+xcQj2fHx4fnJDWOc4/rZHCbrrcCVjGxHbX6sTiiyvzAoiDd06jYVVUp86kRroL7Ff0Y9LbmJ002XM8BGU5Iz7p5R2bPUWbq0W8QmdD6R6uQbEO6YpSkTbQ9J1J0CMQn5UwZvPEoXBntEz2TZi1Ud6L+3RR5JkOf+ZUQw443rJdf63TWeBMh+OL1Kqd1hprrK43jb/iypF6GSTu+c28CQ9qc58bxZW25U33DxCjUTqXqfRs+5cV7EGj9LuIKNcofCX7LQAB4jif/eHj+TquZfUUjjg==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:25:57 : handlerCAuthorize
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:npV097aWa7j7eKUfQsuVA5PKKoqfxWGHHqh3f+W0dKw6YcygaIM4L113xmHfH9KnMn7/5jOisqHoovE21u9lIdDv/QaxhyHjTWb6OiY7xvqXJVyTpCEsltAhv10j+cq6553V1/OSER1i7cF7KNMRIstn257tA7ei/f2hap11ojvYVorUuOh7P61KSgq1QIgg3ZdvhP9gESmougzpdcIdo/BfARw3/k+zP9lCWyutPDTqXYRPJeCEX+sgpcl/KK4lW0RKehfRQQuKwrP0gfDUwM8Rcs0/9Ozmtpp9owPXOlmBPi6iCyvGxnQmS0zRbrGccmL4CvsAkFJv+xHSvylzAQ==}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:25PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
+5:32PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:23] 
+5:32PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:24] 2019-05-29 17:32:31 : handlerCAuthorize
+5:32PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:25] req:&{CNonce:L9SMsZ6pn2TJIlLk9QiT9bVfzxF5YRFOWGjptKMqUXvA+0w4njwar4R8x6oXEVXntdkFAVbD8KZoUn/qxR9/aH2L0OnKbai0lxJV+DNJDbvm6yLQPB+QcgtwOi9yKwf2v15EvYagK4aYdNX9s6B/YuPiLy3eDTdaNGbdZxyWgh5VfNAf80htd4iEmQA1EAd2CXeQc00AsGWgs5IKmQ+HS8/wfusEMMWkvwQUbDfrqmjDl1b7jg9F+TagbcLNIQoGmFCfv9QmekDrjvmZkLO+UXi41RRiKl/Y3vTEgh83dejS4irnwJI1WPycOfgofc4jaB3u1ankIET0a6o6QnHs4g==}
+5:32PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:26] rsp:&{MsgId:1 Code:500 Msg:Decrypt Fail Data:crypto/rsa: decryption error}
+5:32PM [INFO] [D:/fidoself/my-leafserver/my-leafserver/common/utils.go:27] 
