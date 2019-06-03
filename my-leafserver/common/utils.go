@@ -18,6 +18,8 @@ func RndNum(startNum, endNum int) int {
 	return rnd + startNum
 }
 
+
+
 // 访问记录到控制台
 func AccessRecords(acc string, req, resp interface{}) {
 	logger.Info("")

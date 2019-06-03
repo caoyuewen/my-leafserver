@@ -7,7 +7,8 @@ import (
 
 func init() {
 	// 客户端认证
-	msg.Processor.SetRouter(&msg.CAuthorize{},login.ChanRPC)
+	msg.Processor.SetRouter(&msg.CAuthorizeReq{},login.ChanRPC)
+	msg.Processor.SetRouter(&msg.SAuthorizeReq{},login.ChanRPC)
 
 
 	// 用户登录

@@ -6,12 +6,13 @@ var Processor = json.NewProcessor()
 
 func init() {
 
-	// REQUEST c - s
-	Processor.Register(&CAuthorize{}) // 客户端认证服务端
-	Processor.Register(&LoginReq{})   // 用户登录
+	// REQUEST  S - C
+	Processor.Register(&CAuthorizeReq{}) // 客户端认证服务端
+	Processor.Register(&SAuthorizeReq{}) // 服务端认证客户端
 
-	// RESPONSE
-	// 返回结果 s - c
+	Processor.Register(&LoginReq{}) // 用户登录
+
+	// RESPONSE OF ALL S - C
 	Processor.Register(&Resp{}) // 返回结果
 
 }

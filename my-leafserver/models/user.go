@@ -1,7 +1,5 @@
 package models
 
-import "gopkg.in/mgo.v2"
-
 const (
 	userCollectionName = "user"
 )
@@ -12,12 +10,10 @@ type User struct {
 }
 
 // 获取 user 的集合
-func getUserCollection() *mgo.Collection {
-	return mgSessionDB.C(userCollectionName)
-}
 
 // 添加一个用户
 func (u *User) AddUser() error {
-	c := getUserCollection()
+	s, c := connection(DBName, userCollectionName)
+	defer s.Close()
 	return c.Insert(u)
 }

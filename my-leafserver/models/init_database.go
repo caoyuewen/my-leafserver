@@ -7,8 +7,7 @@ import (
 )
 
 var (
-	mgSession   *mgo.Session
-	mgSessionDB *mgo.Database
+	globalSession *mgo.Session
 )
 
 const (
@@ -31,15 +30,18 @@ func initMongoDb() {
 		Username: Server.MongoDBUser,
 		Password: Server.MongoDBPwd,
 	}
-	mgSession, err = mgo.DialWithInfo(mongoDBDialInfo)
+	globalSession, err = mgo.DialWithInfo(mongoDBDialInfo)
 
 	if err != nil {
 		logger.Error("Mongodb 连接失败:", err)
 		panic(err)
 	}
-	mgSession.SetMode(mgo.Monotonic, true)
-
-	mgSessionDB = mgSession.DB(DBName)
+	globalSession.SetMode(mgo.Monotonic, true)
 	logger.Info("连接mongo数据库成功 address:", Server.MongoDBAddr)
+}
 
+func connection(dbName, cName string) (*mgo.Session, *mgo.Collection) {
+	s := globalSession.Copy()
+	c := s.DB(dbName).C(cName)
+	return s, c
 }

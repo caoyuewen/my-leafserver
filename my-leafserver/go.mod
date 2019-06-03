@@ -3,6 +3,7 @@ module my-leafserver
 go 1.12
 
 require (
+	github.com/google/uuid v1.1.1
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/name5566/leaf v0.0.0-20181103040206-1364c176dfbd

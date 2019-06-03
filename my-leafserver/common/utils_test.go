@@ -17,14 +17,14 @@ func TestRsaEncrypt(t *testing.T) {
 
 	var oData = "8274"
 
-	data, err := RsaEncrypt([]byte(oData), PubPerm)
+	data, err := RsaEncryptPub([]byte(oData))
 	if err != nil {
 		fmt.Println("加密失败err：",err.Error())
 		return
 	}
 	fmt.Println(string(data))
 
-	bytes, err := RsaDecrypt(data, PriPerm)
+	bytes, err := RsaDecryptPri(data)
 	if err != nil {
 		fmt.Println("解密失败err：",err.Error())
 		return

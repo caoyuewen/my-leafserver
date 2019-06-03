@@ -3,7 +3,7 @@
   "WSAddr": "127.0.0.1:3666",
   "MaxConnNum": 20000,
 
-  "MongoDBAddr": "192.168.23.131:27017",
+  "MongoDBAddr": "192.168.23.132:27017",
   "MongoDBUser": "fido",
   "MongoDBPwd": "123456",
   "MongoDBAuth": "admin"
