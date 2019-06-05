@@ -51,6 +51,11 @@ func saveAgent(key string, agent *gate.Agent) {
 
 func autoDeleteAgent(key string) {
 	time.Sleep(autoDeleteAgentTime)
+	authAgent := getAuthAgent(key)
+	if authAgent == nil {
+		agent := getAgent(key)
+		(*agent).Close()
+	}
 	removeAgent(key)
 }
 

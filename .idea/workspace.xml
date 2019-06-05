@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52f28d79-abdb-4e24-a96d-7d3480ba5f8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my-leafserver/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/my-leafserver/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-leafserver/login/internal/global_agent.go" beforeDir="false" afterPath="$PROJECT_DIR$/my-leafserver/login/internal/global_agent.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/js/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/js/req.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/js/websocketManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler_user.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="e#18#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler_authorize.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1152" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/global_agent.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/msg/msg.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/msg/req.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-leafserver/msg/resp.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log.</find>
+      <find>Leaf</find>
+      <find>\</find>
+      <find>NewAgent</find>
+      <find>alert(msg)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\fidoself\my-leafserver\my-leafserver</dir>
+      <dir>D:\fidoself\my-leafserver</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my-leafserver/login/external.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/module.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/gate/internal/module.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/gate/external.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/game/internal/module.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/game/external.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/base/skeleton.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/server.json" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/conf.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/log.json.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/log.json" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/conf_log.md" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf_md/conf_log.md" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/init.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/main.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/conf_log.json" />
+        <option value="$PROJECT_DIR$/my-leafserver/log/app.log" />
+        <option value="$PROJECT_DIR$/my-leafserver/models/init.go" />
+        <option value="$PROJECT_DIR$/client/index.html.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/game/internal/chanrpc.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/game/internal/handler.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/login_req.go" />
+        <option value="$PROJECT_DIR$/req/req.proto" />
+        <option value="$PROJECT_DIR$/resp/resp.proto" />
+        <option value="$PROJECT_DIR$/client/client.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/msg_id.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/common/const.go" />
+        <option value="$PROJECT_DIR$/client/js/util.js" />
+        <option value="$PROJECT_DIR$/client/js/msgId.js" />
+        <option value="$PROJECT_DIR$/client/cert/public.pem" />
+        <option value="$PROJECT_DIR$/my-leafserver/conf/conf_server.json" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/my-leafserver/common/utils_test.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/models/init_database.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/models/user.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/authorize.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/global_conn.go" />
+        <option value="$PROJECT_DIR$/client/js/utils.js" />
+        <option value="$PROJECT_DIR$/my-leafserver/common/encrypt_nonce.go" />
+        <option value="$PROJECT_DIR$/client/js/wsHandler.js" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/msg.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/handler.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/resp.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/common/utils.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/handler_authorize.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/handler_user.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/gate/router.go" />
+        <option value="$PROJECT_DIR$/client/js/websocketManager.js" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/msg.proto" />
+        <option value="$PROJECT_DIR$/my-leafserver/msg/req.go" />
+        <option value="$PROJECT_DIR$/my-leafserver/login/internal/global_agent.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/my-leafserver.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/Fido.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="112" />
+    <option name="width" value="1260" />
+    <option name="height" value="640" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="my-leafserver" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-leafserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fidoself\my-leafserver\my-leafserver\msg" />
+      <recent name="D:\fidoself\my-leafserver\client\js\proto" />
+      <recent name="D:\fidoself\my-leafserver\client\goclient_test" />
+      <recent name="D:\fidoself\my-leafserver\client\cert" />
+      <recent name="D:\fidoself\my-leafserver\my-leafserver\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fidoself\my-leafserver\client\js" />
+      <recent name="D:\fidoself\my-leafserver\my-leafserver\msg" />
+      <recent name="D:\fidoself\my-leafserver\my-leafserver\cert" />
+      <recent name="D:\fidoself\my-leafserver\client" />
+      <recent name="D:\fidoself\my-leafserver\my-leafserver\conf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestRsaEncrypt in my-leafserver/common">
+    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="my-leafserver" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client/client.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="my-leafserver" />
+      <working_directory value="$PROJECT_DIR$/my-leafserver" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/my-leafserver/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRndNum in my-leafserver/common" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="my-leafserver" />
+      <working_directory value="$PROJECT_DIR$/my-leafserver/common" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="my-leafserver/common" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRndNum$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRsaEncrypt in my-leafserver/common" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="my-leafserver" />
+      <working_directory value="$PROJECT_DIR$/my-leafserver/common" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="my-leafserver/common" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRsaEncrypt$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRsaEncrypt in my-leafserver/common" />
+        <item itemvalue="Go Test.TestRndNum in my-leafserver/common" />
+        <item itemvalue="Go Build.go build client.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.29 at 17h 30m 40s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.29 at 17h 30m 46s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.29 at 17h 30m 51s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.29 at 17h 31m 00s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.29 at 17h 31m 06s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.30 at 10h 04m 21s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.30 at 10h 04m 40s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.30 at 10h 07m 11s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.30 at 11h 13m 42s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRsaEncrypt_in_my-leafserver_common - 2019.05.30 at 11h 14m 34s.xml">
+      <configuration name="TestRsaEncrypt in my-leafserver/common" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17703862" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40111113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15222222" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-leafserver/common/const.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/cert/client_pub.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/game/external.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/log/app.log" />
+    <entry file="file://$PROJECT_DIR$/my-leafserver/conf_md/conf_log.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1176">
+            <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/go.sum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/models/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/external.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/cert/server_pri.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/game/internal/chanrpc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#18#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/game/internal/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/game/internal/module.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/gamedata/reader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#18#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/module.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/gate/external.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/gate/internal/module.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#18#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/jsencrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="5253" column="4" selection-start-line="5253" selection-start-column="4" selection-end-line="5253" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/cert/client_pri.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/name5566/leaf@v0.0.0-20181103040206-1364c176dfbd/chanrpc/chanrpc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/cert/server_pub.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/name5566/leaf@v0.0.0-20181103040206-1364c176dfbd/gate/agent.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/name5566/leaf@v0.0.0-20181103040206-1364c176dfbd/gate/gate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="150" column="16" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/name5566/leaf@v0.0.0-20181103040206-1364c176dfbd/network/conn.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/models/init_database.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/models/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/goclient_test/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/cert/public.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/common/utils_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <element signature="e#16#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/msg_id.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/conf/conf_server.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/gate/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/common/encrypt_nonce.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/common/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/proto/msg.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/proto/msg_pb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12912">
+          <caret line="538" column="40" selection-start-line="538" selection-start-column="40" selection-end-line="538" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/msg.pb.go" />
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/msg.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/wsHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/req.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/msg.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/req.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/msg/resp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/websocketManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler_user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#18#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/handler_authorize.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-leafserver/login/internal/global_agent.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

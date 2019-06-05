@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package msg;
+
+// RESPONSE OF ALL
+message Resp {
+    int32 code = 1;
+    int32 msg_id = 2;
+    string msg = 3;
+    string data = 4;
+
+}
+
+// REQ
+// 客户端认证请求
+// RESP MSG_ID = 1
+message CAuthorize {
+    string CNonce = 1;
+}
+// RESP
+/*
+{
+	"Resp": {
+		"code": 200,
+		"msg": "...",
+		"msg_id": 1,
+		"data": "{\"c_nonce\":\"...\",\"s_nonce\":\"...\"}"
+	}
+}
+*/
+
+// REQ
+// 服务器验证客户端应答请求
+// RESP MSG_ID = 2
+message SAuthorize {
+    string CNonce = 1;
+    string SNonce = 2;
+}
+
+// RESP
+/*
+{
+	"Resp": {
+		"code": 200,
+		"msg": "...",
+		"msg_id": 2
+	}
+}
+*/
+
